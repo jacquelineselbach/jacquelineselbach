@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Jacqui.
 
-🌍  based in Vienna
-✉️  contact me at [jacqueline.selbach@stud.fh-campuswien.ac.at](mailto:jacqueline.selbach@stud.fh-campuswien.ac.at)
-🧠  Software Design and Engineering Masters Degree Program (FH Campus Wien)
+* 🌍  based in Vienna
+* ✉️  contact me at [jacqueline.selbach@stud.fh-campuswien.ac.at](mailto:jacqueline.selbach@stud.fh-campuswien.ac.at)
+* 🧠  Software Design and Engineering Masters Degree Program (FH Campus Wien)
 
 ### Skills  
 
