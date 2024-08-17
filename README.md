@@ -1,7 +1,4 @@
-## Hi there 👋
-
-Full-Stack Dev with a Design Background. 
-----------------------------------------  
+## Hi there 👋 I'm Jacqui.
 
 * 🌍  based in Vienna
 * ✉️  contact me at [jacqueline.selbach@stud.fh-campuswien.ac.at](mailto:jacqueline.selbach@stud.fh-campuswien.ac.at)
