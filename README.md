@@ -1,5 +1,6 @@
 ## Hi there 👋 
 
+![Hi there](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&fontColor=salmon&bgColor=black)
 * 🌍  based in Vienna
 * ✉️  contact me at [jacqueline.selbach@stud.fh-campuswien.ac.at](mailto:jacqueline.selbach@stud.fh-campuswien.ac.at)
 
